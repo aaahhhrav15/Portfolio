@@ -1,5 +1,6 @@
 import React from 'react';
 import { div } from 'three/examples/jsm/nodes/Nodes.js';
+import HeroContent from '../sub/HeroContent';
 
 const Hero = () => {
   return (
@@ -12,6 +13,7 @@ const Hero = () => {
         >
             <source src="/assets/blackhole.mp4" type="video/webm"/>
         </video>
+        <HeroContent/>
     </div>
   )
 }
