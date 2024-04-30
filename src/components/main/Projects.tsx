@@ -1,3 +1,5 @@
+"use client";
+
 import React from "react";
 import ProjectCard from "../sub/ProjectCard";
 
@@ -17,9 +19,9 @@ const Projects = () => {
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         />
         <ProjectCard
-          src="/assets/CardImage.png"
-          title="Interactive Website Cards"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/assets/Crypto-app.png"
+          title="Cryptoverse - Crypto App"
+          description="A crypto app that allows you to view all the cryptocurrencies and their details along with interactive charts."
         />
         <ProjectCard
           src="/assets/SpaceWebsite.png"
