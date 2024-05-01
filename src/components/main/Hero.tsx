@@ -1,5 +1,4 @@
 import React from 'react';
-import { div } from 'three/examples/jsm/nodes/Nodes.js';
 import HeroContent from '../sub/HeroContent';
 
 const Hero = () => {
