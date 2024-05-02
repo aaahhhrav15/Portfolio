@@ -23,11 +23,6 @@ const StarBackground = (props: any) => {
 
   const [sphere, setSphere] = useState(() => generateSphere());
 
-  const updateSphere = () => {
-    const newSphere = generateSphere();
-    setSphere(newSphere);
-  };
-
   useFrame((state, delta) => {
     ref.current.rotation.x -= delta / 10;
     ref.current.rotation.y -= delta / 15;
