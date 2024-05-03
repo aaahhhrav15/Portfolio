@@ -93,6 +93,11 @@ export const Skill_data = [
       src: "/assets/linkedin.png",
       link: "https://www.linkedin.com/in/aarav-lodha-079902255/"
     },
+    {
+      name: "Github",
+      src: "/assets/github.png",
+      link: "https://github.com/aaahhhrav15"
+    }
   ];
   
   
@@ -141,8 +146,8 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "React Query",
-      Image: "/assets/reactquery.png",
+      skill_name: "Chart JS",
+      Image: "/assets/chartjs.png",
       width: 80,
       height: 80,
     },
@@ -153,8 +158,8 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "Next js 13",
-      Image: "/assets/next.png",
+      skill_name: "Bootstrap 5",
+      Image: "/assets/Bootstrap_logo.svg.png",
       width: 80,
       height: 80,
     },
@@ -213,27 +218,27 @@ export const Skill_data = [
   
   export const Full_stack = [
     {
-      skill_name: "React Native",
-      Image: "/assets/ReactNative .png",
+      skill_name: "Next JS",
+      Image: "/assets/next.png",
       width: 70,
       height: 70,
     },
     {
-      skill_name: "Tauri",
-      Image: "/assets/tauri.svg",
+      skill_name: "C++",
+      Image: "/assets/c++logo.png",
       width: 70,
       height: 70,
     },
     {
-      skill_name: "Docker",
-      Image: "/assets/docker.webp",
+      skill_name: "Python",
+      Image: "/assets/python.png",
       width: 70,
       height: 70,
     },
   
     {
-      skill_name: "Figma",
-      Image: "/assets/figma.png",
+      skill_name: "C",
+      Image: "/assets/C_Logo.png",
       width: 50,
       height: 50,
     },
@@ -242,8 +247,8 @@ export const Skill_data = [
   
   export const Other_skill = [
     {
-      skill_name: "Go",
-      Image: "/assets/go.png",
+      skill_name: "Java",
+      Image: "/assets/java.png",
       width: 60,
       height: 60,
     },
