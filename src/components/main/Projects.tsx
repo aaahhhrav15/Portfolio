@@ -14,17 +14,17 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/assets/Crypto-app.png"
+          src="./assets/Crypto-app.png"
           title="Cryptoverse - Crypto App"
           description="A crypto app that allows you to view all the cryptocurrencies and their details along with interactive charts."
         />
         <ProjectCard
-          src="/assets/dicegame.png"
+          src="./assets/dicegame.png"
           title="Dice Game"
           description="A simple dice game which generates random dice numbers and calculates the points."
         />
         <ProjectCard
-          src="/assets/SpaceWebsite.png"
+          src="./assets/SpaceWebsite.png"
           title="My Portfolio"
           description="An interactive portfolio made using Next JS, Tailwind CSS, Framer Motion and Three JS."
         />

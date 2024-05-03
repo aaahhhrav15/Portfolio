@@ -36,7 +36,7 @@ const StarBackground = (props: any) => {
           color="$fff"
           size={0.002}
           sizeAttenuation={true}
-          depthWrite={false} // Fixed typo
+          depthWrite={false} 
         />
       </Points>
     </group>

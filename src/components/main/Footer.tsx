@@ -27,7 +27,7 @@ const Footer = () => {
                     <div className="min-w-[200px] h-auto flex flex-col items-center justify-start z-50">
                         <div className="font-bold text-[16px]">Other Links</div>
                         <a href="https://www.instagram.com/aaahhhrav15/" target="blank" className="flex flex-row items-center my-[15px] cursor-pointer">
-                            <Image src="/assets/instagram.png" alt="youtube" width={24} height={24} />
+                            <Image src="./assets/instagram.png" alt="youtube" width={24} height={24} />
                             <span className="text-[15px] ml-[6px]">Instagram</span>
                         </a>
                         <a href="https://github.com/aaahhhrav15" target="blank" className="flex flex-row items-center my-[15px] cursor-pointer">
@@ -35,7 +35,7 @@ const Footer = () => {
                             <span className="text-[15px] ml-[6px]">Github</span>
                         </a>
                         <a href="https://leetcode.com/u/Aaahhhrav/" target="blank" className="flex flex-row items-center my-[15px] cursor-pointer">
-                            <Image src="/assets/leetcode.png" alt="leetcode" width={24} height={24} />
+                            <Image src="./assets/leetcode.png" alt="leetcode" width={24} height={24} />
                             <span className="text-[15px] ml-[6px]">Leetcode</span>
                         </a>
                         
@@ -43,7 +43,7 @@ const Footer = () => {
                     <div className="min-w-[200px] h-auto flex flex-col items-center justify-start z-50">
                         <div className="font-bold text-[16px]">Contact Me</div>
                         <a href="https://www.linkedin.com/in/aarav-lodha-079902255/" target="blank" className="flex flex-row items-center my-[15px] cursor-pointer">
-                            <Image src="/assets/linkedin.png" alt="linkedin" width={24} height={24} />
+                            <Image src="./assets/linkedin.png" alt="linkedin" width={24} height={24} />
                             <span className="text-[15px] ml-[6px]">LinkedIn</span>
                         </a>
                         <p className="flex flex-row items-center my-[15px]">

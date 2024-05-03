@@ -72,7 +72,7 @@ import {
               loop
               muted
               autoPlay
-              src="/assets/cards-video.webm"
+              src="./assets/cards-video.webm"
             />
           </div>
         </div>
